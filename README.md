@@ -1,9 +1,9 @@
-# 👨‍💻 Portfólio Profissional - [Seu Nome]
+# 👨‍💻 Portfólio Profissional - [Andre Santana]
 
 ![Badge de Status](http://img.shields.io/static/v1?label=STATUS&message=ONLINE&color=GREEN&style=for-the-badge)
 ![Badge da Licença](http://img.shields.io/static/v1?label=License&message=MIT&color=green&style=for-the-badge)
 
-> Confira o projeto online: **[https://seu-portfolio.com](https://seu-link-aqui.com)**
+> Confira o projeto online: **[https://seu-portfolio.com](https://andresantanadev.github.io)**
 
 ## 📄 Sobre
 Este repositório contém o código-fonte do meu portfólio pessoal. O objetivo deste projeto é apresentar minhas habilidades técnicas, experiências profissionais e os melhores projetos que desenvolvi ao longo da minha carreira.
@@ -14,10 +14,10 @@ O site foi construído focando em **performance**, **acessibilidade** e **design
 
 O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-* **[Nome da Tecnologia Principal]** (ex: React, Next.js, Angular, HTML5)
-* **[Estilização]** (ex: Tailwind CSS, Styled Components, Sass)
-* **[Outras]** (ex: TypeScript, Framer Motion)
-* **[Deploy]** (ex: Vercel, Netlify)
+* **[HTML]** (ex: React, Next.js, Angular, HTML5)
+* **[CSS]** (ex: Tailwind CSS, Styled Components, Sass)
+* **[JS]** (ex: TypeScript, Framer Motion)
+
 
 ## 🎨 Funcionalidades
 
